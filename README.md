@@ -15,8 +15,8 @@ npm run cordova-serve-android
 
 ### Compiles and minifies for production
 ```
-npm run cordova-build-android => build output: ./src-cordova/www
-npm run cordova-build-browser => build output: ./src-cordova/\platforms\android\app\build\outputs\apk\release
+npm run cordova-build-browser => build output: ./src-cordova/www
+npm run cordova-build-android => build output: ./src-cordova/\platforms\android\app\build\outputs\apk\release
 ```
 
 ### Customize configuration
