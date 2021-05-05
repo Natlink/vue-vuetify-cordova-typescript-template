@@ -3,6 +3,7 @@
 ## Project setup
 ```
 npm install
+cd ./src-cordova/
 cordova platform add browser
 cordova platform add android
 ```
